@@ -13,7 +13,8 @@ help() {
 }
 
 version() {
-  sonic --version
+  # sonic --version
+  echo "$PACKAGE_CORE_VERSION"
 }
 
 core() {

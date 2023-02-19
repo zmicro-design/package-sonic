@@ -2,7 +2,7 @@
 
 export PACKAGE_CORE_NAME="sonic"
 export PACKAGE_CORE_BIN_NAME="$PACKAGE_CORE_NAME"
-export PACKAGE_CORE_VERSION=v2.1.7
+export PACKAGE_CORE_VERSION=v1.0.8
 export PACKAGE_CORE_ORG="go-sonic"
 
 export PACKAGE_CORE_ORG_DOREAMON_DESIGN="doreamon-design"
